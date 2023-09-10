@@ -70,6 +70,7 @@ You'll also need to set the Catppuccin-Mocha-Standard-Blue-Dark gtk theme and Sh
 Now just restart the pc after doing so and you're good to go!
 
 Important keybinds (you can look at all of them in ~/.config/hypr/configs/Keybinds.conf
+```
 ----------------------------------------------------------------------------
 | Super+Enter       | Open terminal                                        |
 | Super+D           | Open rofi                                            |
@@ -99,5 +100,6 @@ Important keybinds (you can look at all of them in ~/.config/hypr/configs/Keybin
 | Super+Shift+Space | Toggle floating window                               |
 | Super+Shift+S     | Screenshot with swappy                               |
 ----------------------------------------------------------------------------
+```
 
 Credits: The scripts are from JaKooLits Hyprland-v3 rice and his wonderful bash skills. Thanks <
