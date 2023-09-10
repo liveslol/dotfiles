@@ -12,6 +12,8 @@ And a lot of ther stuff like: pfetch, cava, btop, htop, wlogout, swaylock and mo
 ## Preview 目
 
 <img align="center" src="/assets/preview.png">
+<img align="center" src="/assets/preview2.png">
+<img align="center" src="/assets/preview3.png">
 
 ## Tree of files 木
 
