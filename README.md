@@ -61,7 +61,7 @@ paru -S foot swaybg swayidle swaylock-effects wofi wlogout mako grim slurp wl-cl
 
 Then clone this branch of the repo and copy the content of "files" to your home directory
 ```
-git clone https://github.com/notbluie/dotfiles.git --branch <editthis>
+git clone https://github.com/notbluie/dotfiles.git --branch Blueland
 cd dotfiles
 sudo cp -r ./files/* ~
 ```
