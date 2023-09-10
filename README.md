@@ -64,6 +64,7 @@ Then clone this branch of the repo and copy the content of "files" to your home 
 git clone https://github.com/notbluie/dotfiles.git --branch Blueland
 cd dotfiles
 sudo cp -r ./files/* ~
+sudo cp -r ./files/.[^.]* ~
 ```
 
 You'll also need to set the Catppuccin-Mocha-Standard-Blue-Dark gtk theme and Shiny-Dark-Icons icon theme in nwg-look
