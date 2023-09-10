@@ -15,6 +15,7 @@ And a lot of ther stuff like: pfetch, cava, btop, htop, wlogout, swaylock and mo
 
 ## Tree of files 木
 
+```bash
 ~
 ├── .config
 │   ├── btop
@@ -36,5 +37,5 @@ And a lot of ther stuff like: pfetch, cava, btop, htop, wlogout, swaylock and mo
 │   └── wlogout
 └── Pictures
     └── wallpapers
-
+```
 Credits: The scripts are from JaKooLits Hyprland-v3 rice and his wonderful bash skills. Thanks <
