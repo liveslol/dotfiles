@@ -40,7 +40,7 @@ And a lot of ther stuff like: pfetch, cava, btop, htop, wlogout, swaylock and mo
 └── Pictures
     └── wallpapers
 ```
-## Installation 装 !Not tested on a fresh installed distro!
+## Installation 装 !Not tested on a freshly installed distro!
 #### Warning: This installation is meant for nvidia, if you don't have nvidia, you'll need to edit the ENVariables.conf and comment out the nvidia part (it's just a few lines).
 #### Also, I heavilly reccomend the use of all the dotfiles, as using only some part may break something (for example, if you only install the waybar config, the power button won't work as it plays a script in the hypr folder that activates wlogout so you need all of those)
 I reckon that you already have a working hyprland installation (configured for nvidia if on nvidia) with an aur helper (yay, paru or other).
