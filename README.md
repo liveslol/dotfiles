@@ -65,5 +65,6 @@ git clone https://github.com/notbluie/dotfiles.git --branch <editthis>
 cd dotfiles
 sudo cp -r ./files/* ~
 ```
+You'll need to restart the pc after doing so and you're good to go!
 
 Credits: The scripts are from JaKooLits Hyprland-v3 rice and his wonderful bash skills. Thanks <
