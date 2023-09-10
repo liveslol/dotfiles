@@ -48,10 +48,16 @@ I reckon that you already have a working hyprland installation (configured for n
 Update your system (I'm using paru but use your aur helper) with ```paru -Syu```
 
 If you're on nvidia install theese packages:
-```paru -S nvidia-dkms nvidia-settings nvidia-utils libva libva-nvidia-driver-git```
+
+```
+paru -S nvidia-dkms nvidia-settings nvidia-utils libva libva-nvidia-driver-git
+```
 
 Now you'll need to install all the packages:
-```paru -S foot swaybg swayidle swaylock-effects wofi wlogout mako grim slurp wl-clipboard cliphist swappy polkit-kde-agent nwg-look-bin swww mousepad pipewire-alsa playerctl qt5ct btop nvtop jq gvfs gvfs-mtp ffmpegthumbs mpv python-requests pamixer wlsunset brightnessctl xdg-user-dirs viewnior network-manager-applet nano cava pavucontrol otf-font-awesome ttf-jetbrains-mono-nerd ttf-jetbrains-mono otf-font-awesome-4 ttf-droid ttf-fantasque-sans-mono adobe-source-code-pro-fonts noto-fonts-emoji waybar-hyprland-git```
+
+```
+paru -S foot swaybg swayidle swaylock-effects wofi wlogout mako grim slurp wl-clipboard cliphist swappy polkit-kde-agent nwg-look-bin swww mousepad pipewire-alsa playerctl qt5ct btop nvtop jq gvfs gvfs-mtp ffmpegthumbs mpv python-requests pamixer wlsunset brightnessctl xdg-user-dirs viewnior network-manager-applet nano cava pavucontrol otf-font-awesome ttf-jetbrains-mono-nerd ttf-jetbrains-mono otf-font-awesome-4 ttf-droid ttf-fantasque-sans-mono adobe-source-code-pro-fonts noto-fonts-emoji waybar-hyprland-git
+```
 
 Then clone this branch of the repo and copy the content of "files" to your home directory
 ```
