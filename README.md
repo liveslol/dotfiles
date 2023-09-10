@@ -69,7 +69,9 @@ sudo cp -r ./files/* ~
 You'll also need to set the Catppuccin-Mocha-Standard-Blue-Dark gtk theme and Shiny-Dark-Icons icon theme in nwg-look
 Now just restart the pc after doing so and you're good to go!
 
-Important keybinds (you can look at all of them in ~/.config/hypr/configs/Keybinds.conf
+## After install 後
+
+Important keybinds here ⇩ (you can look at all of them in ~/.config/hypr/configs/Keybinds.conf)
 ```
 ----------------------------------------------------------------------------
 | Super+Enter       | Open terminal                                        |
