@@ -7,7 +7,7 @@
 - **Launcher** • [Rofi](https://github.com/davatorium/rofi) A window switcher, application launcher and dmenu replacement 🔍
 - **File Manager** • [Thunar](https://github.com/xfce-mirror/thunar) A modern file manager designed from the ground up to be fast and easy to use 📁
 - **Wallpaper** • [Swww](https://github.com/Horus645/swww) A solution to Wayland wallpaper woes 🌄
-And a lot of ther stuff like: pfetch, cava, btop, htop, wlogout, swaylock and more.
+And a lot of other stuff like: pfetch, cava, btop, htop, wlogout, swaylock and more.
 
 ## Preview 目
 
@@ -96,8 +96,8 @@ Important keybinds here ⇩ (you can look at all of them in ~/.config/hypr/confi
 | Super+F           | Toggle fullscreen                                    |
 | Super+T           | Open thunar                                          |
 | Ctrl+Alt+L        | Lockscreen                                           |
-| Super+W           | Change random wallpaper (from ~/Pictures/wallpapers) |
-| Super+Ctrl+W      | Select wallpaper (from ~/Pictures/wallpapers)        |
+| Super+W           | Change to a random wallpaper (from ~/Pictures/wallpapers) |
+| Super+Ctrl+W      | Select a wallpaper (from ~/Pictures/wallpapers)        |
 | Super+B           | Toggle waybar                                        |
 | Super+Space       | Change layout (Master / Dwindle)                     |
 | Super+Shift+Space | Toggle floating window                               |
