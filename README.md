@@ -74,35 +74,35 @@ Now just restart the pc after doing so and you're good to go!
 
 Important keybinds here ⇩ (you can look at all of them in ~/.config/hypr/configs/Keybinds.conf)
 ```
-----------------------------------------------------------------------------
-| Super+Enter       | Open terminal                                        |
-| Super+D           | Open rofi                                            |
-| Super+Q           | Kill focused window                                  |
-| Super+Up          | Switch focus to the upper window                     |
-| Super+Down        | Switch focus to the lower window                     |
-| Super+Left        | Switch focus to the window on the left               |
-| Super+Right       | Switch focus to the window on the right              |
-| Super+Shift+Up    | Resize the window a little up                        |
-| Super+Shift+Down  | Resize the window a little down                      |
-| Super+Shift+Left  | Resize the window a little left                      |
-| Super+Shift+Right | Resize the window a little right                     |
-| Super+Ctrl+Up     | Move the window up                                   |
-| Super+Ctrl+Down   | Move the window down                                 |
-| Super+Ctrl+Left   | Move the window left                                 |
-| Super+Ctrl+Right  | Move the window right                                |
-| Super+1-9         | Switch to workspace from 1 to 9                      |
-| Super+Ctrl+1-9    | Move the window to a workspace from 1 to 9           |
-| Super+Shift+1-9   | Move the window to a workspace from 1 to 9 silently  |
-| Super+F           | Toggle fullscreen                                    |
-| Super+T           | Open thunar                                          |
-| Ctrl+Alt+L        | Lockscreen                                           |
+---------------------------------------------------------------------------------
+| Super+Enter       | Open terminal                                             |
+| Super+D           | Open rofi                                                 |
+| Super+Q           | Kill focused window                                       |
+| Super+Up          | Switch focus to the upper window                          |
+| Super+Down        | Switch focus to the lower window                          |
+| Super+Left        | Switch focus to the window on the left                    |
+| Super+Right       | Switch focus to the window on the right                   |
+| Super+Shift+Up    | Resize the window a little up                             |
+| Super+Shift+Down  | Resize the window a little down                           |
+| Super+Shift+Left  | Resize the window a little left                           |
+| Super+Shift+Right | Resize the window a little right                          |
+| Super+Ctrl+Up     | Move the window up                                        |
+| Super+Ctrl+Down   | Move the window down                                      |
+| Super+Ctrl+Left   | Move the window left                                      |
+| Super+Ctrl+Right  | Move the window right                                     |
+| Super+1-9         | Switch to workspace from 1 to 9                           |
+| Super+Ctrl+1-9    | Move the window to a workspace from 1 to 9                |
+| Super+Shift+1-9   | Move the window to a workspace from 1 to 9 silently       |
+| Super+F           | Toggle fullscreen                                         |
+| Super+T           | Open thunar                                               |
+| Ctrl+Alt+L        | Lockscreen                                                |
 | Super+W           | Change to a random wallpaper (from ~/Pictures/wallpapers) |
-| Super+Ctrl+W      | Select a wallpaper (from ~/Pictures/wallpapers)        |
-| Super+B           | Toggle waybar                                        |
-| Super+Space       | Change layout (Master / Dwindle)                     |
-| Super+Shift+Space | Toggle floating window                               |
-| Super+Shift+S     | Screenshot with swappy                               |
-----------------------------------------------------------------------------
+| Super+Ctrl+W      | Select a wallpaper (from ~/Pictures/wallpapers)           |
+| Super+B           | Toggle waybar                                             |
+| Super+Space       | Change layout (Master / Dwindle)                          |
+| Super+Shift+Space | Toggle floating window                                    |
+| Super+Shift+S     | Screenshot with swappy                                    |
+---------------------------------------------------------------------------------
 ```
 
 If you like this rice, please consider starring ⭐
