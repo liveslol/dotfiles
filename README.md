@@ -7,6 +7,7 @@
 - **Launcher** • [Rofi](https://github.com/davatorium/rofi) A window switcher, application launcher and dmenu replacement 🔍
 - **File Manager** • [Thunar](https://github.com/xfce-mirror/thunar) A modern file manager designed from the ground up to be fast and easy to use 📁
 - **Wallpaper** • [Swww](https://github.com/Horus645/swww) A solution to Wayland wallpaper woes 🌄
+
 And a lot of other stuff like: pfetch, cava, btop, htop, wlogout, swaylock and more.
 
 ## Preview 目
