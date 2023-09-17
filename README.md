@@ -108,4 +108,4 @@ Important keybinds here ⇩ (you can look at all of them in ~/.config/hypr/confi
 
 If you like this rice, please consider starring ⭐
 
-Credits: The scripts are from JaKooLits Hyprland-v3 rice and his wonderful bash skills. Thanks <
+Credits: The scripts are from JaKooLits Hyprland-v3 rice. Thanks 💾
