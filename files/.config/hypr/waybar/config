@@ -9,9 +9,9 @@
 	"spacing": 4,
 	"fixed-center": true,
 	"ipc": true,
-	"margin-top": 10,
-	"margin-left": 10,
-	"margin-right": 10,
+	"margin-top": 8,
+	"margin-left": 6,
+	"margin-right": 6,
 	
 	"modules-left": [
 		"hyprland/workspaces", 
