@@ -68,7 +68,7 @@ sudo cp -r ./files/* ~
 sudo cp -r ./files/.[^.]* ~
 ```
 
-You'll also need to set the Catppuccin-Mocha-Standard-Blue-Dark gtk theme and Shiny-Dark-Icons icon theme in nwg-look
+You'll also need to set the Catppuccin-Mocha-Standard-Blue-Dark gtk theme and Shiny-Dark-Icons icon theme in nwg-look and use the [catppuccin rofi theme script](https://github.com/catppuccin/rofi/tree/main/basic)
 Now just restart the pc after doing so and you're good to go!
 
 ## After install 後
