@@ -72,7 +72,7 @@ You'll also need to set the Catppuccin-Mocha-Standard-Blue-Dark gtk theme and Sh
 Now just restart the pc after doing so and you're good to go!
 
 ## After install 後
-
+To get the best expirience, as this theme is catppuccin themed, you can go to the [catppuccin repo](https://github.com/catppuccin/catppuccin) and theme your apps to they fit in!
 Important keybinds here ⇩ (you can look at all of them in ~/.config/hypr/configs/Keybinds.conf)
 ```
 ---------------------------------------------------------------------------------
