@@ -57,7 +57,7 @@ paru -S nvidia-dkms nvidia-settings nvidia-utils libva libva-nvidia-driver-git
 (For everyone) Now you'll need to install all the packages:
 
 ```
-paru -S foot swaybg swayidle swaylock-effects rofi wlogout mako grim slurp wl-clipboard cliphist swappy polkit-kde-agent nwg-look-bin swww mousepad pipewire-alsa playerctl qt5ct htop btop squiid nvtop jq gvfs gvfs-mtp ffmpegthumbs mpv python-requests pamixer wlsunset brightnessctl xdg-user-dirs viewnior network-manager-applet nano cava pavucontrol otf-font-awesome ttf-jetbrains-mono-nerd ttf-jetbrains-mono otf-font-awesome-4 ttf-droid ttf-fantasque-sans-mono adobe-source-code-pro-fonts noto-fonts-emoji waybar-hyprland catppuccin-gtk-theme-mocha catppuccin-gtk-theme-latte catppuccin-cursors-mocha ttf-meslo-nerd
+paru -S foot swaybg swayidle swaylock-effects rofi wlogout mako grim slurp wl-clipboard cliphist swappy polkit-kde-agent nwg-look swww mousepad pipewire-alsa playerctl qt5ct htop btop squiid nvtop jq gvfs gvfs-mtp ffmpegthumbs mpv python-requests pamixer wlsunset brightnessctl xdg-user-dirs network-manager-applet nano cava pavucontrol otf-font-awesome ttf-jetbrains-mono-nerd ttf-jetbrains-mono otf-font-awesome-4 ttf-droid ttf-fantasque-sans-mono adobe-source-code-pro-fonts noto-fonts-emoji waybar catppuccin-gtk-theme-mocha catppuccin-gtk-theme-latte catppuccin-cursors-mocha ttf-meslo-nerd
 ```
 
 Then clone this branch of the repo and copy the content of "files" to your home directory
@@ -72,7 +72,7 @@ You'll also need to set the Catppuccin-Mocha-Standard-Blue-Dark gtk theme and Sh
 Now just restart the pc after doing so and you're good to go!
 
 ## After install 後
-To get the best expirience, as this theme is catppuccin themed, you can go to the [catppuccin repo](https://github.com/catppuccin/catppuccin) and theme your apps to they fit in!
+To get the best expirience, as this theme is catppuccin themed, you can go to the [catppuccin repo](https://github.com/catppuccin/catppuccin) and theme your apps so they fit in!
 Important keybinds here ⇩ (you can look at all of them in ~/.config/hypr/configs/Keybinds.conf)
 ```
 ---------------------------------------------------------------------------------
