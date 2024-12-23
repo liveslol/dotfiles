@@ -48,7 +48,7 @@ I reckon that you already have a working hyprland installation (configured for n
 
 Update your system (I'm using paru but use your aur helper) with ```paru -Syu```
 
-(For nvidia only) If you're on nvidia install theese packages:
+(For nvidia only, you should already have this if you configured your system from Hyprland nvidia wiki) If you're on nvidia install theese packages:
 
 ```
 paru -S nvidia-dkms nvidia-settings nvidia-utils libva libva-nvidia-driver-git
