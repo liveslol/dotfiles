@@ -57,7 +57,7 @@ paru -S nvidia-dkms nvidia-settings nvidia-utils libva libva-nvidia-driver-git
 (For everyone) Now you'll need to install all the packages:
 
 ```
-paru -S foot swaybg swayidle swaylock-effects rofi wlogout mako grim slurp wl-clipboard cliphist swappy polkit-kde-agent nwg-look swww mousepad pipewire-alsa playerctl qt5ct htop btop squiid nvtop jq gvfs gvfs-mtp ffmpegthumbs mpv python-requests pamixer wlsunset brightnessctl xdg-user-dirs network-manager-applet nano cava pavucontrol otf-font-awesome ttf-jetbrains-mono-nerd ttf-jetbrains-mono otf-font-awesome-4 ttf-droid ttf-fantasque-sans-mono adobe-source-code-pro-fonts noto-fonts-emoji waybar catppuccin-gtk-theme-mocha catppuccin-gtk-theme-latte catppuccin-cursors-mocha ttf-meslo-nerd thunar
+paru -S foot swaybg swayidle swaylock-effects rofi wlogout mako grim slurp wl-clipboard cliphist swappy polkit-kde-agent nwg-look swww mousepad pipewire wireplumber playerctl qt5ct htop btop squiid nvtop jq gvfs gvfs-mtp ffmpegthumbs mpv python-requests pamixer wlsunset brightnessctl xdg-user-dirs network-manager-applet nano cava pavucontrol otf-font-awesome ttf-jetbrains-mono-nerd ttf-jetbrains-mono otf-font-awesome-4 ttf-droid ttf-fantasque-sans-mono adobe-source-code-pro-fonts noto-fonts-emoji waybar catppuccin-gtk-theme-mocha catppuccin-gtk-theme-latte catppuccin-cursors-mocha ttf-meslo-nerd thunar
 ```
 
 Then clone this branch of the repo and copy the content of "files" to your home directory
