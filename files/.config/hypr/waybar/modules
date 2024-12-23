@@ -173,7 +173,7 @@
   "max-length": 50,
 },
   
-"pulseaudio": {
+"wireplumber": {
   "format": "{icon} {volume}%",
   "format-bluetooth": "{icon}  {volume}%",
   "format-muted": "",
