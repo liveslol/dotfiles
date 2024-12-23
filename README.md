@@ -62,7 +62,7 @@ paru -S foot swaybg swayidle swaylock-effects rofi wlogout mako grim slurp wl-cl
 
 Then clone this branch of the repo and copy the content of "files" to your home directory
 ```
-git clone https://github.com/notbluie/dotfiles.git --branch Blueland
+git clone https://github.com/liveslol/dotfiles.git --branch Blueland
 cd dotfiles
 sudo cp -r ./files/* ~
 sudo cp -r ./files/.[^.]* ~
