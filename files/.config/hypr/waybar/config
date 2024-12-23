@@ -34,9 +34,9 @@
 		"tray", 
 		"battery", 
 		"backlight",
-		"pulseaudio",
+		"wireplumber",
 		//"wireplumber", 
-		//"pulseaudio#microphone", 
+		//"wireplumber#microphone", 
 		"custom/power"
 		],
 	}
